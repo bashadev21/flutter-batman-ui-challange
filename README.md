@@ -1,6 +1,5 @@
 # batman_ui_challange
 https://user-images.githubusercontent.com/74558749/118473412-8fda7b80-b727-11eb-93f3-ed1e01a88e5d.mp4
-A new Flutter project.
 
 ## Getting Started
 
